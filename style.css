@@ -11,7 +11,7 @@
 }
 
 .body {
-    background: url(../img/Pattern.png);
+    background: url(/img/Pattern.png);
     display: flex;
     justify-content: space-between;
     flex-direction: column;
