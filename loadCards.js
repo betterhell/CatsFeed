@@ -44,7 +44,7 @@ const loadCards = () => {
       <div class="card__background">
         <img
           class="card__img"
-          src="/images/background/Photo_default.png"
+          src="/img/Photo_default.png"
           alt=""
         />
       </div>

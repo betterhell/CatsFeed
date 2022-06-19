@@ -17,14 +17,14 @@ const likeCards = () => {
       if (weight.style.backgroundColor === "rgb(73, 179, 236)") {
         cardImgDefault.setAttribute(
           "src",
-          "images/background/Photo_selected.png"
+          "img/Photo_selected.png"
         );
         postDescription.innerHTML = `В корзине!`;
         weight.style.backgroundColor = "rgb(231, 45, 135)";
       } else if ((weight.style.backgroundColor = "rgb(231, 45, 135)")) {
         cardImgDefault.setAttribute(
           "src",
-          "images/background/Photo_default.png"
+          "img/Photo_default.png"
         );
         postDescription.innerHTML = `Чего сидишь? Порадуй котэ, <a href="##">купи.</a>`;
         weight.style.backgroundColor = "rgb(73, 179, 236)";
