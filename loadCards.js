@@ -45,7 +45,7 @@ const loadCards = () => {
         <img
           class="card__img"
           src="./img/Photo_default.png"
-          alt=""
+          alt="Карточка"
         />
       </div>
       <p class="card__postCardInfo">
