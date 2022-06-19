@@ -6,10 +6,6 @@
     font-family: 'Exo 2', sans-serif;
 }
 
-.background {
-    position: relative;
-}
-
 .body {
     background: url(./img/Pattern.png);
     display: flex;
@@ -70,6 +66,10 @@
     margin-bottom: 10px;
 }
 
+.card__gifts span {
+    font-weight: bold;
+}
+
 .card__bacground {
     position: relative;
 }
@@ -117,6 +117,7 @@
 }
 
 .card__postCardInfo {
+    height: 15px;
     margin-top: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 13px;
