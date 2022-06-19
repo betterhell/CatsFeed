@@ -37,6 +37,12 @@
     cursor: pointer;
     max-width: 320px;
     margin-bottom: 30px;
+    transition: all 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    transition: all 0.3s ease-in-out;
 }
 
 .card__img {
