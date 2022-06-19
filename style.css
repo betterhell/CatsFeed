@@ -8,7 +8,7 @@
 }
 
 .body {
-    background-image: url(../images/background/Pattern.png);
+    background-image: url(images/background/Pattern.png);
     display: flex;
     justify-content: space-between;
     flex-direction: column;
